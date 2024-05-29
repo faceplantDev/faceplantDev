@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**faceplantDev/faceplantDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"> Github Statistics 📈 </h2>
+  
+  <div align="center"> 
+     <a href="">
+      <img height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=faceplantDev&hide_border=true&theme=dark" />
+    </a>
+    <a href="">
+      <img height="250px" src="https://github-readme-stats.vercel.app/api?username=faceplantDev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark"/>
+    </a>
+</div
