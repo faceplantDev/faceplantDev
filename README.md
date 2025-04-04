@@ -1,3 +1,9 @@
+<div align="center"> 
+<a align="center" href="">
+  <img height="500px" src="https://i.imgur.com/RtOuAAZ.jpeg" />
+</a>
+</div>
+
 <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
